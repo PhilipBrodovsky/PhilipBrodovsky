@@ -1,0 +1,10 @@
+[
+   {
+      "text": "Cite different types of CSS.",
+      "answer": "External \n/ – These are written in separate files. Internal – These are cited at the top of the web page code document. Inline – These are written right next to the text"
+   },
+   {
+      "text": "display inline vs inline-block vs block",
+      "answer": "inline - without new line, width=content, without height \n inline-block - without new line, width=content, with height \n block - start with new line, width=100%, with height"
+   }
+]

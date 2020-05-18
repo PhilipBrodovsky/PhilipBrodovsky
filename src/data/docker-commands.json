@@ -1,0 +1,21 @@
+[
+   {
+      "docker run [image] [override commands]": "create and start container from image",
+      "docker run -d  [image] [override commands]": "create and start container from image in background",
+      "docker ps": "list of running containers",
+      "docker create [image] ": "create new  container (return container_id)",
+      "docker start [container_id] ": "start new container",
+      "docker start -a [container_id] ": "start new  containers and set terminal get output from container",
+      "docker system prune": "delete all containers",
+      "docker logs [container_id]": "get logs from container",
+      "docker stop [container_id]": "stop container",
+      "docker kill [container_id]": "stop container immediately",
+      "docker exec -it [container_id] [command]": "execute command inside container (-it allow רא write commands)",
+      "docker exec -it [container_id] sh": "open  terminal inside container",
+      "docker build -t [docker_id]/[name]:[version] [path]": "create image from docker file (-f => path to dockerfile)",
+      "docker-compose up": "run compose from current directory (-d -> run on background)",
+      "docker-compose up --build": "build image from current directory",
+      "docker-compose down": "close all container"
+      
+   }
+]

@@ -1,0 +1,35 @@
+[
+   {
+      "value": "hours",
+      "index": 0,
+      "url": "http://purl.bioontology.org/ontology/SNOMEDCT/307146003"
+   },
+   {
+      "value": "Sunday",
+      "index": 1
+   },
+   {
+      "value": "Monday",
+      "index": 2
+   },
+   {
+      "value": "Tuesday",
+      "index": 3
+   },
+   {
+      "value": "Wednesday",
+      "index": 4
+   },
+   {
+      "value": "Thursday",
+      "index": 5
+   },
+   {
+      "value": "Friday",
+      "index": 6
+   },
+   {
+      "value": "Saturday",
+      "index": 7
+   }
+]
